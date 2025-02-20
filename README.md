@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**doctorszu/doctorszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m DoctorSzu, a passionate scientist who just recently exploring the exciting world of AI in healthcare and drug discovery. 
 
-Here are some ideas to get you started:
+## About Me 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Background**: I hold a PhD in Molecular Aspects of Reproductive Biology, but I also have broad experience in cancer modeling, stem cells, and CRISPR screenings.
+  
+## Projects 🚀
+
+Here I will show some of my current projects:
+- **[Project Name]**: A brief description of what this project is about and what technologies you used.
+
+## Get in Touch! 📬
+
+I’m always open to collaboration and discussions. Feel free to reach out!
+
+- 🌐 LinkedIn: (www.linkedin.com/in/jszuszkiewicz)
+
+Thanks for stopping by! 🎉
